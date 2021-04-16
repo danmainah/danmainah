@@ -9,7 +9,7 @@
 ###  A little more about me...  
 
 ```javascript
-const eliVillalejos = {
+const danmainah = {
   lookingFor: "Back-end developer" || "Full-stack web developer",
   code: [Django, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
   Tailwind CSS],
