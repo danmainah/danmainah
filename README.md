@@ -3,7 +3,7 @@
 <p><em>Remote Full-stack Web Developer ready for adventure</em></p>
 ![DANIEL MAINA (AKA danmainah)](https://user-images.githubusercontent.com/42869046/114180949-95cf8680-9949-11eb-84a7-80ce420eaa25.png)
 
----
+---## Reach me out!
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Maina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](www.linkedin.com/in/daniel-maina-315a38191)
 [![Twitter Badge](https://img.shields.io/badge/-@danmainah_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)](https://twitter.com/danmainah)
 
