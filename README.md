@@ -8,11 +8,11 @@
 
 ```javascript
 const danmainah = {
-  lookingFor: "Back-end developer" || "Full-stack web developer",
-  code: [Django, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
+  lookingFor: "Back-end developer" || "Front-enddeveloper" || "Full-stack web developer",
+  code: [React, Ruby on Rails,Javascript,Redux, HTML/CSS, Semantic UI, Bootstrap, 
   Tailwind CSS],
   askMeAbout: [Smartphone brands, Tech reviews , car reviews shows],
-  challenge: "I am honing my Rails and Django skills and picking up Javascript and React",
+  challenge: "I am honing my Nextjs skills and picking up Rails and React",
   funFacts: ['I have 1+ years of remote work experience with devs 
   from all over the world' 
   ]
