@@ -2,8 +2,6 @@
 <h2> Hi, I'm Daniel Maina <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
 
 
-<p><em>Currently studying at Microverse to become full-stack web developer</p>
-
 ###  A little more about me...  
 
 ```javascript
