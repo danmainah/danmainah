@@ -6,12 +6,12 @@
 
 ```javascript
 const danmainah = {
-  lookingFor: "Back-end developer" || "Front-enddeveloper" || "Full-stack web developer",
-  code: [React, Ruby on Rails,Javascript,Redux, HTML/CSS, Semantic UI, Bootstrap, 
+  lookingFor: "Back-end developer" || "Front-end developer" || "Full-stack web developer",
+  code: [React, Ruby on Rails,Javascript,Vue,Nuxt, Redux, HTML/CSS, Semantic UI, Bootstrap, 
   Tailwind CSS],
-  askMeAbout: [Smartphone brands, Tech reviews , car reviews shows],
-  challenge: "I am honing my Nextjs skills and picking up Rails and React",
-  funFacts: ['I have 1+ years of remote work experience with devs 
+  askMeAbout: [Tech reviews , car reviews shows],
+  challenge: "I am honing my Nodejs skills and picking up Rails and React",
+  funFacts: ['I have 2+ years of remote work experience with devs 
   from all over the world' 
   ]
 }
