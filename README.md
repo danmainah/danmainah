@@ -4,19 +4,10 @@
 
 ###  A little more about me...  
 
-```javascript
-const danmainah = {
-  lookingFor: "Back-end developer" || "Front-end developer" || "Full-stack web developer",
-  code: [React, Ruby on Rails,Javascript,Vue,Nuxt, Redux, HTML/CSS, Semantic UI, Bootstrap, 
-  Tailwind CSS],
-  askMeAbout: [Tech reviews , car reviews shows],
-  challenge: "I am honing my Nodejs skills and picking up Rails and React",
-  funFacts: ['I have 2+ years of remote work experience with devs 
-  from all over the world' 
-  ]
-}
+Passionate about ideating, conceptualizing, and producing consumer-centric as well as B2B technology and technology-enabled products.
 
-```
+Open for exploring exciting full-stack, back-end, and front-end development opportunities in startups as well as companies with scale.
+
 ## Reach me out!
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Maina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/daniel-maina-315a38191/)
 [![Twitter Badge](https://img.shields.io/badge/-@danmainah_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/miss_elliev)](https://twitter.com/danmainah)
