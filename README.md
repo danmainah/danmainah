@@ -16,10 +16,7 @@ Open for exploring exciting full-stack, back-end, and front-end development oppo
 
 
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=danmainah&show_icons=true&theme=radical)
 
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=danmainah&show_icons=true&theme=merko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danmainah&layout=compact)](https://github.com/danmainah/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danmainah&layout=pie)](https://github.com/danmainah/github-readme-stats)
 
